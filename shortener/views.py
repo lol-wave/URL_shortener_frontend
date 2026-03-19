@@ -6,7 +6,7 @@ import logging
 # Set up logging
 logger = logging.getLogger(__name__)
 
-API_URL = "http://194.242.56.190:8000"
+API_URL = "http://localhost:8000"
 EMAIL = "test123@example.com"
 PASSWORD = "securepassword123"
 
